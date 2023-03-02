@@ -1,4 +1,2 @@
-
-
-if 'apple'<'banna':
-    print('0')
+node=['a','.','.']
+print(node[-2:])
