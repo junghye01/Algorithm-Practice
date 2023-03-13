@@ -12,3 +12,4 @@ for _ in range(T):
     n,m=map(int,sys.stdin.readline().split())
     bridge=factorial(m)// (factorial(m-n)*factorial(n))
     print(bridge)
+
